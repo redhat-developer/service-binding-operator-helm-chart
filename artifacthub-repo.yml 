@@ -1,4 +1,4 @@
-repositoryID: The ID of the Artifact Hub repository where the packages will be published to (optional, but it enables verified publisher)
+repositoryID: 5a5761ba-017c-4839-aee8-89e1557138bf
 owners:
   - name: Kartikey-star
     email: kmamgain@redhat.com
