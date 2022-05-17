@@ -1,0 +1,10 @@
+repositoryID: The ID of the Artifact Hub repository where the packages will be published to (optional, but it enables verified publisher)
+owners:
+  - name: Kartikey-star
+    email: kmamgain@redhat.com
+  - name: pmacik
+    email: pmacik@redhat.com 
+  - name: jasperchui
+    email: jchui@redhat.com 
+  - name: dperaza4dustbit
+    email: dperaza@redhat.com
