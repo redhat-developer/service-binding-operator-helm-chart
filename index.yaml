@@ -6,8 +6,35 @@ entries:
       charts.openshift.io/provider: RedHat
       charts.openshift.io/supportURL: https://github.com/redhat-developer/service-binding-operator.git
     apiVersion: v2
+    appVersion: 1.3.0
+    created: "2022-10-10T19:25:00.776096+05:30"
+    description: A Helm chart to deploy service binding operator
+    digest: 4e448803b5273ef1d0a0d397084c69d9dcf7f2b4623f363370330beae1959481
+    icon: https://raw.githubusercontent.com/redhat-developer/service-binding-operator/master/assets/icon/sbo-logo.png
+    keywords:
+    - ""
+    kubeVersion: '>= 1.19.2-0'
+    maintainers:
+    - email: kmamgain@redhat.com
+      name: Kartikey-star
+    - email: pmacik@redhat.com
+      name: pmacik
+    - email: jchui@redhat.com
+      name: jasperchui
+    - email: dperaza@redhat.com
+      name: dperaza4dustbit
+    name: service-binding-operator
+    type: application
+    urls:
+    - service-binding-operator-1.3.0.tgz
+    version: 1.3.0
+  - annotations:
+      charts.openshift.io/name: service-binding-operator
+      charts.openshift.io/provider: RedHat
+      charts.openshift.io/supportURL: https://github.com/redhat-developer/service-binding-operator.git
+    apiVersion: v2
     appVersion: 1.2.0
-    created: "2022-09-13T20:23:46.992831+05:30"
+    created: "2022-10-10T19:25:00.77541+05:30"
     description: A Helm chart to deploy service binding operator
     digest: a4f9cd2121972985f89ecf1d06b7a75355b5aa7d26d0f7ad1ce72bf2691810c1
     icon: https://raw.githubusercontent.com/redhat-developer/service-binding-operator/master/assets/icon/sbo-logo.png
@@ -34,7 +61,7 @@ entries:
       charts.openshift.io/supportURL: https://github.com/redhat-developer/service-binding-operator.git
     apiVersion: v2
     appVersion: 1.1.1
-    created: "2022-09-13T20:23:46.992132+05:30"
+    created: "2022-10-10T19:25:00.774463+05:30"
     description: A Helm chart to deploy service binding operator
     digest: 49cf84ee3b626771c4d6156d1637a01b40435df977414df7d7b0fb860b241f1d
     icon: https://raw.githubusercontent.com/redhat-developer/service-binding-operator/master/assets/icon/sbo-logo.png
@@ -61,7 +88,7 @@ entries:
       charts.openshift.io/supportURL: https://github.com/redhat-developer/service-binding-operator.git
     apiVersion: v2
     appVersion: 1.1.0
-    created: "2022-09-13T20:23:46.991448+05:30"
+    created: "2022-10-10T19:25:00.773198+05:30"
     description: A Helm chart to deploy service binding operator
     digest: 02fb9bb11419f11baf48c238186e8e762a326fc9fc6400207960afb8c9cd97bb
     icon: https://github.com/redhat-developer/service-binding-operator/blob/master/assets/icon/sbo-logo.png
@@ -88,7 +115,7 @@ entries:
       charts.openshift.io/supportURL: https://github.com/redhat-developer/service-binding-operator.git
     apiVersion: v2
     appVersion: 1.0.1
-    created: "2022-09-13T20:23:46.990671+05:30"
+    created: "2022-10-10T19:25:00.772213+05:30"
     description: A Helm chart to deploy service binding operator
     digest: c4f4695c50dd980da068474a864caa524a35285e9cf1b4075276a5a60c4100fc
     keywords:
@@ -108,4 +135,4 @@ entries:
     urls:
     - service-binding-operator-1.0.0.tgz
     version: 1.0.0
-generated: "2022-09-13T20:23:46.988701+05:30"
+generated: "2022-10-10T19:25:00.770368+05:30"
